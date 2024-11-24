@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JONATHAN STRASBOURG : L'ASTRONOME DÉMONIAQUE</title>
+    <style>
+        body {
+            font-family: "Arial Black", Arial, sans-serif;
+            line-height: 1.8;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #ffffff;
+            text-transform: uppercase;
+        }
+        header {
+            background: linear-gradient(45deg, #ff0000, #8b0000);
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        }
+        header h1 {
+            font-size: 3em;
+            font-weight: bold;
+            margin: 0;
+        }
+        header h2 {
+            font-size: 1.5em;
+            margin: 5px 0 0;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: #222;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(255, 0, 0, 0.4);
+        }
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 15px auto;
+            border-radius: 8px;
+            border: 3px solid #ff0000;
+        }
+        h2 {
+            font-size: 2em;
+            font-weight: bold;
+            color: #ff4500;
+            text-shadow: 0 0 8px #ff0000, 0 0 15px #8b0000;
+        }
+        p {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #e6e6e6;
+            text-align: justify;
+        }
+        .interactive:hover {
+            transform: scale(1.1);
+            transition: 0.3s ease;
+        }
+        .scrolling-text {
+            animation: scroll 10s linear infinite;
+            color: #ff4500;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        @keyframes scroll {
+            0% { transform: translateX(100%); }
+            100% { transform: translateX(-100%); }
+        }
+        footer {
+            background: #8b0000;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        footer p {
+            margin: 5px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>JONATHAN STRASBOURG</h1>
+        <h2>L'ASTRONOME DÉMONIAQUE ET SON FIDÈLE DANNZY</h2>
+    </header>
+    <section>
+        <h2>PRÉSENTATION DE JONATHAN</h2>
+        <img src="https://i.imgur.com/VJVwvCM.jpeg" alt="JONATHAN STRASBOURG, L'ASTRONOME DÉMONIAQUE" class="interactive">
+        <p>JONATHAN STRASBOURG EST UNE ENTITÉ MYSTÉRIEUSE QUI AFFIRME AVOIR DÉCOUVERT UNE FAILLE COSMIQUE RELIANT LA VOIE LACTÉE AUX ENFERS. SES CONTRIBUTIONS À L'ASTRONOMIE INCLUENT DES CONSTELLATIONS DÉMONIAQUES COMME "LA FOURCHE DU DIABLE" ET "LE CHIEN DES ABYSSES".</p>
+        <img src="https://i.imgur.com/0RO7rSj.jpeg" alt="JONATHAN CONTEMPLANT L'INFINI">
+        <p>IL EST CONNU POUR AVOIR INVENTÉ UNE NOUVELLE THÉORIE DU BIG BANG, APPELÉE "LE GRAND HURLEMENT COSMIQUE", QUI PRÉTEND QUE L'UNIVERS A ÉTÉ CRÉÉ PAR UN CRI DÉCHIRANT DE SON CHIEN-HOMME, DANNZY.</p>
+    </section>
+    <section>
+        <h2>DANNZY, LE CHIEN-HOMME</h2>
+        <img src="https://i.imgur.com/RDGTJGL.jpeg" alt="DANNZY, FIDÈLE COMPAGNON DÉMONIAQUE" class="interactive">
+        <p>DANNZY A ÉTÉ DÉCOUVERT PAR JONATHAN LORS D'UNE MISSION HUMANITAIRE EN INDONÉSIE. APRÈS UNE LONGUE BATAILLE MYSTIQUE DANS UNE JUNGLE, JONATHAN A UTILISÉ UNE AMULETTE FAITE DE POUSSIÈRE D'ÉTOILES POUR L'APPRIVOISER.</p>
+        <p>DEPUIS, DANNZY EST DEVENU UN AMBASSADEUR INTERGALACTIQUE DE LA JUSTICE COSMIQUE ET UN GÉNIE CAPABLE DE RÉSOUDRE DES MYSTÈRES DIMENSIONNELS.</p>
+    </section>
+    <section>
+        <h2>LES LÉGENDES DE JONATHAN</h2>
+        <img src="https://i.imgur.com/0RO7rSj.jpeg" alt="JONATHAN EN PLEINE RÉFLEXION DÉMONIAQUE" class="interactive">
+        <p>JONATHAN AFFIRME AVOIR VOYAGÉ DANS LE TEMPS POUR ASSISTER À LA FORMATION DE LA PREMIÈRE ÉTOILE, QU'IL DÉCRIT COMME "UNE EXPLOSION PARFUMÉE À LA CANNELLE".</p>
+        <p>IL A AUSSI INVENTÉ UN CALENDRIER BASÉ SUR LES CYCLES DÉMONIAQUES, UTILISÉ PAR LES ADEPTES DE SA SECTE POUR CÉLÉBRER LES ÉCLIPSES AVEC DES CHANTS ASTRONOMIQUES INVERSES.</p>
+        <img src="https://i.imgur.com/B9h3onm.jpeg" alt="JONATHAN STRASBOURG, INSPIRÉ PAR L'AU-DELÀ" class="interactive">
+    </section>
+    <footer>
+        <p>&copy; 2024 JONATHAN STRASBOURG - LE COSMOS DÉCHAÎNÉ</p>
+        <p class="scrolling-text">"REGARDEZ LES ÉTOILES ET VOYEZ L'ABÎME DANS LEURS YEUX." - JONATHAN STRASBOURG</p>
+    </footer>
+</body>
+</html>
